@@ -1,0 +1,29 @@
+body {
+    background-image: url(./e94a9b2847559c74aff99ae7d59120b6.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 500px;
+    background-size: cover;
+}
+
+.imagen-1{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+}
+
+h3{
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(10, 124, 109);
+    text-decoration: underline;
+}
+.estructura{
+    
+    text-align: center;
+    width: 300px;
+    background-color: bisque;
+    padding-bottom: 10px;
+    margin-left: 40%;
+    margin-top: 100px;
+}
